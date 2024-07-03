@@ -1,3 +1,3 @@
 # html-css-portfolio
 
-Welcome to my HTML & CSS Portfolio! This repository contains a collection of web development projects I developed during my web development course on Udemy. Each project demonstrates different aspects of HTML and CSS design.
+Bem-vindo ao meu Portfólio de HTML e CSS! Este repositório contém uma coleção de projetos de desenvolvimento web que desenvolvi durante meu curso de desenvolvimento web na Udemy.
